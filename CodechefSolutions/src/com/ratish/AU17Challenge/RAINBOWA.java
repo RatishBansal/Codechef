@@ -1,11 +1,8 @@
+package com.ratish.AU17Challenge;
 
 /*
- * Codechef: August Challenge
- * https://www.codechef.com/AUG17/problems/RAINBOWA/
- * Author: Ratish Bansal
+https://www.codechef.com/AUG17/problems/RAINBOWA
 */
-
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
